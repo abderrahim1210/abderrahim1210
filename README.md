@@ -48,7 +48,7 @@
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mariadb,mongodb&theme=light" />
 
 <br/><br/>
 
@@ -146,4 +146,6 @@ Currently building and refining new full-stack projects — check back for updat
 
 <br/><br/>
 
-<img src="
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:1e3a8a&height=100&section=footer" width="100%"/>
+
+</div>
