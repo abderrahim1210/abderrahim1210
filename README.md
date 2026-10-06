@@ -48,7 +48,7 @@
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mariadb,mongodb&theme=light" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" />
 
 <br/><br/>
 
