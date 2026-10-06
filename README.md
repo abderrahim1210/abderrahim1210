@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:6366f1&height=220&section=header&text=Hey,%20I'm%20Abderrahim%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Digital%20Development%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:6366f1&height=220&section=header&text=Hey,%20I'm%20Abderrahim%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/abderrahim1210">
   <img src="https://komarev.com/ghpvc/?username=abderrahim1210&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
@@ -21,7 +21,6 @@
 ## 🧭 About Me
 
 <p align="left">
-  🎓 Currently specializing in <b>Web Full-Stack Development</b> at <b>ISTA / OFPPT</b><br/>
   💻 Passionate about writing <b>clean, type-safe, and scalable code</b><br/>
   🚀 Focused on building complete products — from database design to pixel-perfect UI<br/>
   🎨 When I step away from the keyboard, you'll find me <b>drawing</b> — it keeps the creative side of my brain just as sharp as the technical one<br/>
@@ -49,7 +48,7 @@
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,mariadb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" />
 
 <br/><br/>
 
@@ -147,6 +146,4 @@ Currently building and refining new full-stack projects — check back for updat
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:1e3a8a&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="
