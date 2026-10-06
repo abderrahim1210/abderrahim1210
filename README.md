@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://github.com/abderrahim1210">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Laravel+%2B+React+Enthusiast;Turning+Ideas+Into+Clean+Code;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Laravel+%2B+React+%2B+TypeScript;Turning+Ideas+Into+Clean+Code;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 </div>
@@ -20,24 +20,14 @@
 
 ## 🧭 About Me
 
-```javascript
-const abderrahim = {
-    role: "Digital Development Student — Web Full-Stack",
-    school: "ISTA / OFPPT",
-    stack: ["Laravel", "React", "Node.js", "Express", "MySQL", "MongoDB"],
-    currentFocus: "Building production-ready full-stack applications",
-    sideQuest: "Sketching and drawing 🎨 — where logic takes a break",
-    philosophy: "Clean code isn't written, it's rewritten.",
-    funFact: "I debug in my sleep... sometimes literally"
-};
-```
-
-- 🎓 Currently specializing in **Web Full-Stack Development** at **ISTA / OFPPT**
-- 💻 Passionate about writing **clean, maintainable, and scalable code**
-- 🚀 Focused on building complete products — from database design to pixel-perfect UI
-- 🎨 When I step away from the keyboard, you'll find me **drawing** — it keeps the creative side of my brain just as sharp as the technical one
-- 🌱 Constantly exploring new tools across the **MERN** and **Laravel** ecosystems
-- 💬 Open to internships, collaborations, and interesting full-stack challenges
+<p align="left">
+  🎓 Currently specializing in <b>Web Full-Stack Development</b> at <b>ISTA / OFPPT</b><br/>
+  💻 Passionate about writing <b>clean, type-safe, and scalable code</b><br/>
+  🚀 Focused on building complete products — from database design to pixel-perfect UI<br/>
+  🎨 When I step away from the keyboard, you'll find me <b>drawing</b> — it keeps the creative side of my brain just as sharp as the technical one<br/>
+  🌱 Constantly exploring new tools across the <b>Laravel</b>, <b>React</b>, and <b>TypeScript</b> ecosystems<br/>
+  💬 Open to internships, collaborations, and interesting full-stack challenges
+</p>
 
 <br/>
 
@@ -47,19 +37,19 @@ const abderrahim = {
 
 **Languages & Core**
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,php&theme=dark" />
 
 <br/><br/>
 
 **Frontend & Backend**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,laravel,bootstrap&theme=dark" />
 
 <br/><br/>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,mariadb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,mariadb&theme=dark" />
 
 <br/><br/>
 
@@ -82,7 +72,7 @@ const abderrahim = {
 ### 📸 [Pixora](https://github.com/abderrahim1210)
 Final-year full-stack photography platform enabling users to showcase, share, and discover photography work through a modern, responsive interface.
 
-`Laravel` `React` `MySQL` `REST API`
+`Laravel` `React` `TypeScript` `Tailwind CSS` `PostgreSQL`
 
 </td>
 <td width="50%">
@@ -90,7 +80,7 @@ Final-year full-stack photography platform enabling users to showcase, share, an
 ### ☁️ [DeluxeUpload](https://github.com/abderrahim1210)
 A dedicated cloud storage and file management application built for secure, organized, and seamless file handling.
 
-`Node.js` `Express` `MongoDB` `JavaScript`
+`TypeScript` `Node.js` `Express` `MongoDB`
 
 </td>
 </tr>
