@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:6366f1&height=220&section=header&text=Hey,%20I'm%20Abderrahim%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/abderrahim1210">
-  <img src="https://komarev.com/ghpvc/?username=abderrahim1210&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
+<!-- <a href="https://github.com/abderrahim1210">
+  <img src="https://komarev.com/ghpvc/?username=abderrahim1210&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/> -->
 </a>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="Open to work"/>
 <img src="https://img.shields.io/badge/Based%20in-Morocco%20🇲🇦-blue?style=for-the-badge" alt="Location"/>
